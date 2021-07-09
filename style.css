@@ -1,2 +1,46 @@
-body{font-family: 'Poppins', sans-serif;}
-
+body{font-family: 'Montserrat', sans-serif;}
+.nav div{
+    height: 4px;
+    background-color:black;
+    margin: 5px 0;
+    border-radius: 25px;
+}
+.nav{width: 30px;
+display: block;
+margin: 1em 0 0 1em;}
+h1{font-size:50px;
+font-weight: 900px;}
+h6{font-size:20px;}
+.green-crl{color: greenyellow;}
+.flexible-container{display:flex;
+margin-bottom: 50px;}
+.half-wight{width: 50%;padding:5%;margin-top: 10px;margin-left: 5px;
+}
+.half-wight img{width:100% ;}
+.link-button{text-decoration: none;
+    background-image: linear-gradient(tomato,orange );
+    padding: 15px 25px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700px;
+}
+.top-banner{background-image: url(8.png);
+background-repeat: no-repeat;
+background-position: center;}
+.final-work{text-align: center;}
+.shadow-item{width:40%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    margin-right: 2%;
+    margin-left: 1%;
+    margin-top: 20px;padding-left: 20px;
+    margin-bottom: 50px;
+    
+}
+.perfect{width: 300px;
+padding: 30px;
+}
+.greeen{color: yellowgreen;}
+footer{ background-color: tomato;
+    height: 150px;text-align: center;
+}
